@@ -42,7 +42,7 @@
 <div class="container-fluid">
 		<div class="row">
 		  <div class="col-md-12">
-		    <div id="mapid" style=" position: absolute; width: 100%; left: 0; height: 600px;"></div>
+		    <div id="mapid" style=" position: absolute; width: 100%; left: 0; height: 95vh;"></div>
 		  </div>
 		</div>
 	</div>
@@ -89,7 +89,7 @@
 				</div>
 			</div>
 		</div>
-            <p>${datos}</p>
+            
             
             
             
